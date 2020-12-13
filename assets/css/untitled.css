@@ -1,0 +1,25 @@
+img, svg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#video {
+  text-align: center;
+  padding-bottom: 10rem;
+}
+
+#stats {
+}
+
+#stats .cell-left {
+  text-align: left;
+  padding-left: 0;
+}
+
+#stats .cell-right {
+  text-align: right;
+  font-weight: bold;
+  padding-right: 0;
+}
+
